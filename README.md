@@ -59,17 +59,11 @@ Version 0.0.8 - Added Help and Bug menu to Darwin
 
 Version 0.0.9 - Made final pre-beta revisions 
 
--*-*- 
-
--*-*- 
-Alpha versions 
--*-*- 
+-*-*- Alpha versions -*-*- 
 
 -*-*- 
 
--*-*- 
-Beta versions  
--*-*- 
+-*-*- Beta versions -*-*- 
 
 Version 0.1.0 - Fungi are added 
 
