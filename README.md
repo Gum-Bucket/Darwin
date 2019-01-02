@@ -8,7 +8,7 @@
 
 ### Table of Contents 
 
-These are the sections on the README.md file 
+These are the sections on the README.md file. 
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -26,30 +26,44 @@ These are the sections on the README.md file
 
 ## Description 
 
-Darwin is a Microbiological tool in the making that is made to be used with Biological sciences and will have features added.
+Darwin is a Microbiological tool in the making that is made to be used with Biological sciences and will have features added to 
+make it better Darwin was made as a substitute to using big bulk textbooks and to simply use the modern tools given to us to work 
+on Microbial data. 
 
 #### Technologies 
 
 - Python 3 
 
+#### Other technologies are subject to be used 
+
 --- 
 
 ## How To Use 
 
+To use this work simply downlaod it and edit or use it by running it in the Python interpretor. 
+
+#### Prerequistites 
+
+You must have a Python interpreter that will run Python 3. If you don't have one [click here](https://www.python.org/downloads/release/python-368/) 
+
 #### Installation 
+
+Installation is still a work in progress the only way to install this work is by using git or downloading it. 
+
+> 
 
 --- 
 
 ## Files Included 
 
-- .gitignore 
-- LICENSE 
-- README.md 
-- CONTRIBUTING.md
-- CONTRIBUTIONS.md
-- bio.py 
+- [.gitignore](https://github.com/YELLOWHATT/Darwin/blob/master/.gitignore)
+- [LICENSE](https://github.com/YELLOWHATT/Darwin/blob/master/LICENSE) 
+- [README.md](https://github.com/YELLOWHATT/Darwin/blob/master/README.md) 
+- [CONTRIBUTING.md](https://github.com/YELLOWHATT/Darwin/blob/master/CONTRIBUTORS.md)
+- [CONTRIBUTIONS.md](https://github.com/YELLOWHATT/Darwin/blob/master/CONTRIBUTIONS.md)
+- [bio.py](https://github.com/YELLOWHATT/Darwin/blob/master/bio.py)
 
-#### Files are subject to have name changes. 
+#### Files are subject to have their name changed and more files can be included without notice. 
 
 ---
 
@@ -77,7 +91,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT, IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
 
-Or see || LICENSE.md file || 
+See | [LICENSE.md](https://github.com/YELLOWHATT/Darwin/blob/master/LICENSE) file or [MIT](https://choosealicense.com/licenses/mit/)|
 
 [Back To The Top](#Darwin) 
 
@@ -85,11 +99,11 @@ Or see || LICENSE.md file ||
 
 ## Author Info 
 
-- Twitter - https://twitter.com/Hydra_3301
+- Twitter - [Hydra](https://twitter.com/Hydra_3301)
 --- 
-- Github - https://github.com/YELLOWHATT
-- Github - https://github.com/Hydr43301
-- Github - https://github.com/ArtisticMemes 
+- Github - [YELLOWHATT](https://github.com/YELLOWHATT)
+- Github - [Hydra](https://github.com/Hydr43301)
+- Github - [Artistic Memes](https://github.com/ArtisticMemes)
 
 --- 
 
@@ -105,7 +119,7 @@ Or see || LICENSE.md file ||
 
 ## Version Info 
 
-The current version of Darwin is: 0.1.2 
+The current version of Darwin is: 0.1.2. 
 
 Summury of Version 0.1.2 is Fungi are added and Bug fixes are made. 
 
@@ -125,7 +139,7 @@ If there is a bug please contact us through our social media or email.
 
 If you have any info you are willing to know contact us on our social media or email. 
 
-Emails are located in [Help](#help)  
+Emails are located in [Help](#help) ortherwise use Twitter or Discord.  
 
 --- 
 
