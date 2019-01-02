@@ -50,7 +50,23 @@ You must have a Python interpreter that will run Python 3. If you don't have one
 
 Installation is still a work in progress the only way to install this work is by using git or downloading it. 
 
-> 
+```bash 
+pip install Darwin 
+```
+
+#### Usage 
+
+```python 
+microbes = "Bacteria, Virus, Protozoa, Fungi, Bug, or Help"
+
+print("Welcome!")
+print("\nYou are using version " + __version__ + " of " + __name__ + " made by " + __author__)
+
+def repeat2():
+
+    print("\nPlease select if you would like to view, " + microbes + "\n")
+    view = str(input())
+```
 
 --- 
 
